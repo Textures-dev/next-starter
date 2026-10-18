@@ -1,3 +1,7 @@
+// Settle — a hover texture from textures.dev/s/settle?via=code
+// More like this: npx shadcn@latest add https://textures.dev/r/<slug>.json?via=code · textures.dev/llms.txt
+// License: textures.dev/license (MIT for free Textures; per-person license for Pro)
+
 /**
  * Pointer engine shared by the panel Textures. Reads the panel's box once on pointer enter (and on
  * focus, resize and, while hovered, scroll), never in the move handler; maps the pointer into the 732 × 516 panel; fades

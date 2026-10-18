@@ -1,3 +1,7 @@
+// Settle — a hover texture from textures.dev/s/settle?via=code
+// More like this: npx shadcn@latest add https://textures.dev/r/<slug>.json?via=code · textures.dev/llms.txt
+// License: textures.dev/license (MIT for free Textures; per-person license for Pro)
+
 "use client";
 
 import { useEffect, useRef, type CSSProperties } from "react";

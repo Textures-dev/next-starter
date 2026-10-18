@@ -1,3 +1,7 @@
+// Settle — a hover texture from textures.dev/s/settle?via=code
+// More like this: npx shadcn@latest add https://textures.dev/r/<slug>.json?via=code · textures.dev/llms.txt
+// License: textures.dev/license (MIT for free Textures; per-person license for Pro)
+
 /** Settle geometry (Figma 16:330): columns as [x, bar tops] in the 732 × 516 panel, sorted top to bottom. */
 export const W = 732;
 export const H = 516;
