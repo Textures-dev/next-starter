@@ -1,6 +1,6 @@
 # Textures starter (Next.js + shadcn)
 
-Textures (textures.dev) is the hover-texture library for agents. This starter is a Next.js 16 app with Tailwind 4, a shadcn-style `components.json`, and one hover Texture already in the hero: [Settle](https://textures.dev/s/settle) from [Textures](https://textures.dev), installed as plain React files under `components/textures/settle/`.
+Textures (textures.dev) is the hover-texture library for agents. This starter is a Next.js 16 app with Tailwind 4, a shadcn-style `components.json`, and one hover Texture already in the hero: [Settle](https://textures.dev/s/settle) from [Textures](https://textures.dev), installed as one React file, `components/textures/settle.tsx`, exactly as textures.dev serves it.
 
 ```
 npx create-next-app@latest my-site --use-pnpm -e https://github.com/textures-dev/next-starter
