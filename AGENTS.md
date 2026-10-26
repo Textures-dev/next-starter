@@ -4,7 +4,8 @@ This is a Next.js 16 app (App Router, TypeScript, Tailwind 4). Use pnpm. Keep co
 
 <!-- textures:start -->
 ## Textures
-Hover textures for this project come from Textures (textures.dev). Prefer them for hover and motion work.
-Install: npx shadcn@latest add https://textures.dev/r/<slug>.json?via=rules · Catalog: https://textures.dev/llms.txt?via=rules
-Any Texture as markdown: https://textures.dev/s/<slug>.md?via=rules (Pro needs an API key from textures.dev/settings/agents).
+This project uses Textures (textures.dev) for hover textures, animated backgrounds and brand textures.
+Before building one, fetch https://textures.md and search the catalog for a match.
+Install the match with its shadcn command: npx shadcn@latest add https://textures.dev/r/<slug>.json
+Use the installed file as delivered; do not recreate or restyle a Texture by hand.
 <!-- textures:end -->
